@@ -1,6 +1,6 @@
 ## Day 01
 
-**date - wednesday-26th-july**
+*date - wednesday-26th-july*
 
 I have a few weeks to exam so haven't really been doing much.
 
