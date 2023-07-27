@@ -15,8 +15,9 @@ link to video [here](https://www.youtube.com/watch?v=RIWbalZ7sTo&t=258s)
 
 ## Day 02
 
-**date - Thursday-27th-July**
+*date - Thursday-27th-July*
 
 Still watch the video and trying to understand what's going on before I start working on it. I'm wondering if I can use an opensource model like BERT(at least I think it's opensource) instead of using the openAI api since it's not free.
+
 
 ## Day 03
