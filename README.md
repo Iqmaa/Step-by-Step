@@ -11,7 +11,7 @@ Good luck to me !
 |        Day           |           what I did               |        learn more about it       |
 |       :---:          |           :--------:               |        :-----------------:       |
 |        01            |       working on a project         |          [Iqma's Day 1](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
-|        02            |       working on a project         |          [Iqma's Day 1](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
+|        02            |       working on a project         |          [Iqma's Day 2](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
 
 
 Also have a couple other repo's that might be of help to you;
