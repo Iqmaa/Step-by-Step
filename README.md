@@ -10,7 +10,7 @@ Good luck to me !
 
 |        Day           |           what I did               |        learn more about it       |
 |       :---:          |           :--------:               |        :-----------------:       |
-|        01            |       working on a project         |          [Iqma's Day 1]()   |
+|        01            |       working on a project         |          [Iqma's Day 1](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
 
 
 
