@@ -21,3 +21,13 @@ Still watch the video and trying to understand what's going on before I start wo
 
 
 ## Day 03
+
+*date - Friday-28th-July*
+
+Exam is closer than ever. Really wasn't going to do anything but I decided that it was fine as long as I watched just a few minutes of the video above and that's exactly what I did, a little is better than nothing at all I suppose. Really should've been done with the video by now since it isn't even that long...but whatever.
+
+Weekends are for writing articles according to my calendar, hope I'm able to write one this weekend. If not I should at least complete the video and start something.
+
+Fighting!!
+
+## Day 04 
