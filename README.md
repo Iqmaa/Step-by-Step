@@ -13,6 +13,8 @@ Good luck to me !
 |        01            |       working on a project         |          [Iqma's Day 1](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
 |        02            |       working on a project         |          [Iqma's Day 2](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
 |        03            |       working on a project         |          [Iqma's Day 3](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
+|        04            |       working on a project         |          [Iqma's Day 4](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
+|        05            |       article writing              |          [Iqma's Day 5](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
 
 
 Also have a couple other repo's that might be of help to you;
