@@ -31,3 +31,17 @@ Weekends are for writing articles according to my calendar, hope I'm able to wri
 Fighting!!
 
 ## Day 04 
+*date - saturday-28th-July*
+
+
+## Day 05 
+*date - sunday-29th-July*
+
+Did nothing yesterday (insert facepalm)
+
+For today I'm currently doing research and learning more about Regex(Regular expressions) cause that's wha tmy next article is going to be on.
+
+## Day 06
+
+*date - Monday-30th-July*
+
