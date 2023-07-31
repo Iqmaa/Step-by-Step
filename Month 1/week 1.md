@@ -31,11 +31,11 @@ Weekends are for writing articles according to my calendar, hope I'm able to wri
 Fighting!!
 
 ## Day 04 
-*date - saturday-28th-July*
+*date - saturday-29th-July*
 
 
 ## Day 05 
-*date - sunday-29th-July*
+*date - sunday-30th-July*
 
 Did nothing yesterday (insert facepalm)
 
@@ -43,5 +43,12 @@ For today I'm currently doing research and learning more about Regex(Regular exp
 
 ## Day 06
 
-*date - Monday-30th-July*
+*date - Monday-31th-July*
 
+'watched' another video today about building LLM's and I should start working on the project tomorrow. Starting a Tchnical writing internship at Retailloop tomorrow. Wrote my 90 days action plan today. Good luck to me!!
+
+ I'm considering using this repo as my #100daysoopesource challenge entries. Saw something on the codewars website that basically talks about how sharing what you learn as you learn it and 'opensourcing' your knowledge is a great way to attract a community and a network of people that'll aid your growth. Not sure I'm ready to do that yet though.
+
+ ## Day 07
+
+ *date- Tuesday-1st-August*
