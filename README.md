@@ -16,6 +16,8 @@ Good luck to me !
 |        04            |       working on a project         |          [Iqma's Day 4](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
 |        05            |       article writing              |          [Iqma's Day 5](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
 |        06            |       project preparation          |          [Iqma's Day 6](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
+|        07            |       working on project           |          [Iqma's Day 7](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
+|        08            |       working on project           |          [Iqma's Day 8](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%202.md)   |
 
 
 Also have a couple other repo's that might be of help to you;
