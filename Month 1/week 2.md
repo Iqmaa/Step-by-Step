@@ -4,7 +4,7 @@
 
 I actually worked on the project yesterday but couldn't update the repo cause of network issues(no data).Still working on the project,hope to be done soon.
 
-I'm also watching bio-fideos on the side since I'm greatly interested in that
+I'm also watching bio-informatics videos on the side since I'm greatly interested in that
 
 ## Day 09 
 
