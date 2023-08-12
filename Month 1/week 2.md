@@ -27,4 +27,4 @@ After my exams I will continue thiss -whatever this is- and write a summary of t
 
 But for now... I bid you farewell github :v:
 
-P.s- found this article (https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)[Complete list of github markdown emojis] really helpful, check it out.
+P.s- found this article [Complete list of github markdown emojis](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) really helpful, check it out.
