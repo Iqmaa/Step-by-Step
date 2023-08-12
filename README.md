@@ -18,9 +18,11 @@ Good luck to me !
 |        06            |       project preparation          |          [Iqma's Day 6](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
 |        07            |       working on project           |          [Iqma's Day 7](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%201.md)   |
 |        08            |       working on project           |          [Iqma's Day 8](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%202.md)   |
+|        --            |       Hiatus announcement          |          [Iqma's Hiatus](https://github.com/Iqmaa/Step-by-Step/blob/main/Month%201/week%202.md)   |
 
 
-Also have a couple other repo's that might be of help to you;
+Also, here's a *random* list of resources that might be of help to you;
 
 - [Technical Writing Resources](https://github.com/Iqmaa/Technical_writing_resource) - a resource containing free technical writing courses and a summary of what you stand to gain from each of them.
+- [Complete list of github markdown emojis](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) 
 - 
